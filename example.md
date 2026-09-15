@@ -1,0 +1,1 @@
+THis is the content for git essentials training
